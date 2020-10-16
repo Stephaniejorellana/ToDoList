@@ -1,2 +1,2 @@
 # ToDoList
-This is a simple JavaScript To Do List 
+This is a simple JavaScript To Do List project.
